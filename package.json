@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "ajkpsc-portal",
   "private": true,
   "scripts": {
     "build": "turbo run build",
